@@ -15,7 +15,7 @@ function addToCart(item) {
  return `${item} has been added to your cart.`;
 }
 
-function viewCart() {
+*/function viewCart() {
   cart.forEach({
     if {!cart} {
       return 'Your shopping cart is empty.';
@@ -23,7 +23,7 @@ function viewCart() {
       return `In your cart, you have ${item} at ${price}.`
     }
   })
-}
+}*/
 
 function total() {
   // write your code here
